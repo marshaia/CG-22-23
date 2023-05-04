@@ -1,5 +1,5 @@
 # **Computação Gráfica**
-Projeto desenvolvido no âmbito da unidade curricular de Computação Gráfica da Licenciatura em Engenharia Informática.
+Projeto desenvolvido no âmbito da unidade curricular de Computação Gráfica da Licenciatura em Engenharia Informática (2022/23).
 
 
 ## **Descrição**
