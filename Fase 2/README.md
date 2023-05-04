@@ -9,7 +9,7 @@
 ## __Instruções de Build:__
 
 - __Opção 1:__ Utilizar a ferramenta _CMake_ para gerar o executável quer da aplicação _generator_, quer do _engine_. Depois de configurado e gerado, só necessita do comando _make_ na build gerada.
-- __Opção 2:__ Executar os seguintes passos na diretoria de cada aplicação:
+- __Opção 2:__ (Caso se encontre em sistemas __Unix__) Executar os seguintes passos na diretoria de cada aplicação:
   ```bash
   $ mkdir build
   $ cd build
