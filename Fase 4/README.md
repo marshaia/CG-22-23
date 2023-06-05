@@ -1,4 +1,4 @@
-# __[LEI] - Computação Gráfica - Fase 3__
+# __[LEI] - Computação Gráfica - Fase 4__
 
 ## Grupo __30__:
 
